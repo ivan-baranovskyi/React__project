@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "id": "bumn0nqnr",
+      "email": "user@gmail.com",
+      "username": "user",
+      "role": "user",
+      "createdAt": "2025-05-21T10:32:37.225Z"
+    }
+  ],
+  "meetings": []
+}
