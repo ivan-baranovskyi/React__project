@@ -10,7 +10,7 @@ A React-based web application for managing meeting reservations with user authen
 - Mock backend with JSON Server.
 
 ## Installation
-1. Clone the repository: `git clone <repo-url>`
+1. Clone the repository: `git clone https://github.com/ivan-baranovskyi/React__project.git`
 2. Install dependencies: `npm install`
 3. Set up Firebase: Create a Firebase project, enable Email/Password authentication, and add config to `src/firebase.ts`.
 4. Run JSON Server: `npm run server`
